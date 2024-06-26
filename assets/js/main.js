@@ -19,15 +19,6 @@ function downloadCV() {
     document.body.removeChild(link);
 }
 
-// Efeito de Escrita 
- var typingEffect = new Typed(".typedText",{
-    strings : ["Programadora","Estudante"],
-    loop : true,
-    typeSpeed : 100, 
-    backSpeed : 80,
-    backDelay : 2000
-})
-
 // Destaque Sessao ativa 
 
 const sections = document.querySelectorAll('section[id]')

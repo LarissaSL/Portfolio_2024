@@ -550,13 +550,29 @@ footer{
 
 
 /* -----  Responsivo ----- */
-@media only screen and (min-width: 1024px){
+@media only screen and (min-width: 1440px){
+    .apresentacao-text-card{
+        margin-top: 50px;
+    }
+}
+
+
+@media only screen and (min-width: 1024px) {
     .apresentacao-text{
         padding: 0;
     }
     .image, .image img{
         width: 320px;
         height: 320px;
+    }
+
+    .apresentacao-text{
+        min-height: 350px;
+        width: 50%;
+    }
+
+    .apresentacao-text-card{
+        margin-top: 200px;
     }
 }
 
@@ -607,7 +623,7 @@ footer{
     .apresentacao-image{
         order: 1;
         justify-content: center;
-        min-height: 150px;
+        min-height: 250px;
         width: 100%;
         margin-top: 65px;
     }
@@ -678,6 +694,11 @@ footer{
         gap: 10px;
     }
 
+    .apresentacao-box{
+        min-height: 1400px;
+    }
 
-
+    .apresentacao-name{
+        font-size: 30px;
+    }
 }
