@@ -23,4 +23,4 @@ Sinta-se à vontade para explorar e entrar em contato se tiver qualquer dúvida 
 Se você deseja entrar em contato comigo, pode me enviar um e-mail ou conectar-se comigo através das minhas redes sociais:
 
 - **E-mail:** [larissa.silvaedge@gmail.com](mailto:larissa.silvaedge@gmail.com)
-- **LinkedIn:** [LarissaSL](https://www.linkedin.com/in/larissasl)
+- **LinkedIn:** [LarissaSL](https://www.linkedin.com/in/larissasilvasl)
