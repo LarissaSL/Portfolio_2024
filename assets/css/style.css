@@ -204,7 +204,6 @@ nav{
     margin: auto 0;
     width: 380px;
     height: 380px;
-    border-radius: 55% 55% 55% 55%;
     overflow: hidden;
 }
 .image img{
@@ -334,7 +333,6 @@ h3{
 
 .container img {
     width: 30px;
-    border-radius: 50%;
     z-index: 10;
 }
 
@@ -389,7 +387,7 @@ h3{
 .projeto-container{
     display: flex;
     width: 100%;
-    justify-content: space-between;
+    justify-content: space-around;
     gap: 60px;
     flex-wrap: wrap;
 }
